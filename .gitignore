@@ -1,0 +1,12 @@
+/node_modules
+/build
+.env
+package-lock.json
+coverage.json
+coverage
+.coverage_artifacts
+.coverage_contracts
+*~
+artifacts/
+cache/
+.DS_Store
